@@ -1,3 +1,5 @@
+# Licensed and publicly released under https://firstdonoharm.dev/version/3/0/bds-cl-eco-extr-ffd-law-media-mil-my-sv-tal.txt
+
 # pip install biopython
 from Bio import SeqIO
 
