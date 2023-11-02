@@ -1,5 +1,7 @@
 # Biopython_Projects
 
+Licensed under Hippocratic License with select modules as detailed in "license" in repo and here: https://firstdonoharm.dev/version/3/0/bds-cl-eco-extr-ffd-law-media-mil-my-sv-tal.txt
+
 # 1. FASTA Sequence and Identifier reader functions file
 
 Bioinformatics FASTA Sequence and Identifiers Functions
